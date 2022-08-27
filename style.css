@@ -15,7 +15,7 @@ body {
 	margin: 0;
 	padding: 0;
 }
-.back {
+body {
 	/*display: flex;
     flex-direction: column;
     justify-content: center;
@@ -24,9 +24,7 @@ body {
     background-color: #1d1d1d;
 	
     background-size: cover;*/
-	display: inline-block;
     background: url("image/hero-bg.jpg") no-repeat center center fixed;
-	width: 100%;
     background-size: cover;
 }
 /*.logo {
